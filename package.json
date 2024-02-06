@@ -1,0 +1,12 @@
+{
+  "name": "pc-doctor",
+  "version": "1.0.0",
+  "description": "Official website of PC Doctor (pvt) Ltd.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html",
+    "clean": "rm -rf node_modules && npm cache clean --force"
+  },
+  "author": "Kawmal Kashmika <kkashmika@gmail.com>",
+  "license": "MIT"
+}
